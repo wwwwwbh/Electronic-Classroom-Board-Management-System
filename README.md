@@ -13,4 +13,4 @@ server目录下为服务端，使用Node.js接口编写，提供后端数据接�
 
 arcsoft目录下为设备端调用虹软sdk的接口，使用Springboot框架编写，用于人脸识别签到。
 
-http://81.68.153.205:8086/
+bingowu.cn:8086/
